@@ -14,7 +14,7 @@
         <TableRow
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            android:id="@+id/">
+            android:id="@+id/t1">
 
             <TextView
                 android:layout_width="wrap_content"
@@ -30,12 +30,13 @@
 
         <TableRow
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent">
+            android:layout_height="fill_parent"
+            android:id="@+id/t2">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="product 2"
+                android:text="dfg"
                 android:id="@+id/textView2" />
 
             <EditText
